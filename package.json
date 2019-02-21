@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/couksebas10/serverContabilidad#readme",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "mongoose": "^5.4.13",
     "save": "^2.3.3"
